@@ -1,0 +1,15 @@
+{
+  "showCameraPreview": true,
+  "verboseTelemetry": true,
+  "learningDataDir": "generated_data4",
+  "testFraction": 0.2,
+  "keepProbability": 0.5,
+  "epochs": 20,
+  "samples": 20000,
+  "batch": 40,
+  "learningRate": 1.0e-4,
+  "drivingModel": "model_val_loss_9.3703e-05.h5",
+  "maxSpeed": 7,
+  "imageHeight": 80,
+  "imageWidth": 160
+}

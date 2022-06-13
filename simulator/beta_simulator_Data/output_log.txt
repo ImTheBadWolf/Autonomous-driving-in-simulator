@@ -1,0 +1,50 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+    Driver:   30.0.15.1165
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.044 seconds
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+Platform assembly: C:\Users\matus\Documents\skola\vsb\1 sem ing\semestralka\semestralka main\MAIN python\simulator\beta_simulator_Data\Managed\Mono.Security.dll (this message is harmless)
+desktop: 3440x1440 30Hz; virtual: 5360x1448 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 13.489799 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 84f8 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.014300 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 511.
+Total: 0.948000 ms (FindLiveObjects: 0.027300 ms CreateObjectMapping: 0.017100 ms MarkObjects: 0.870200 ms  DeleteObjects: 0.022400 ms)
+
+in menu script 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
